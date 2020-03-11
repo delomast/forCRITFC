@@ -1,0 +1,12 @@
+Package: forCRITFC
+Type: Package
+Title: Functions for Collaboration With CRITFC
+Version: 0.1.0
+Author: Thomas Delomas
+Maintainer: Thomas Delomas <thomas.delomas@idfg.idaho.gov>
+Description: Functions that are useful to share between EFGL and CRITFC.
+    Mainly these are functions that interface with IDFGEN.
+License: MIT + LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
